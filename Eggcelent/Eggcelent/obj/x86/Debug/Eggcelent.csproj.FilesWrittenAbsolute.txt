@@ -1,0 +1,5 @@
+/Users/Gramatikov/Projects/Eggcelent/Eggcelent/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Gramatikov/Projects/Eggcelent/Eggcelent/bin/Debug/Eggcelent.exe.mdb
+/Users/Gramatikov/Projects/Eggcelent/Eggcelent/bin/Debug/Eggcelent.exe
+/Users/Gramatikov/Projects/Eggcelent/Eggcelent/obj/x86/Debug/Eggcelent.exe
+/Users/Gramatikov/Projects/Eggcelent/Eggcelent/obj/x86/Debug/Eggcelent.exe.mdb
